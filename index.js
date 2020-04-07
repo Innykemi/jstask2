@@ -42,6 +42,6 @@ function interestCalculator(array) {
     });
   }
   console.log(interestData);
-  return;
+  return interestData;
 }
 interestCalculator(data);
